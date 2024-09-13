@@ -36,7 +36,7 @@ Summary of Work Completed
      - Set up the HTTP server to listen on port 8080.
      - Connected the `/calculateTax` endpoint to the `TaxHandler` for processing requests.
 
-5. Improvements Made:**
+5. **Improvements Made:**
 - **Bug Fixes:** Corrected errors in tax calculation logic.
 - **Code Refactoring:** Improved code organization and readability.
 - **Error Handling:** Added robust error handling for invalid inputs and server errors.
@@ -54,5 +54,3 @@ Summary of Work Completed
 - **HTTP Server Integration:** ~1 hour
 - **Testing and Validation:** ~0.5 hour
 - **Documentation and Final Touches:** ~0.5 hour
-
-By adhering to this plan, you ensured a functional and maintainable solution within the 4-hour time limit. If further development is needed, focus on testing, handling additional scenarios, and extending the application for different tax rules.
